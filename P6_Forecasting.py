@@ -17,6 +17,6 @@ plt.xlabel('Year')
 plt.ylabel('Popularity')
 plt.title('Popularity of songs through the years')
 
-plt.savefig('img/P5_LR.png')
+plt.savefig('img/P6_Forecasting.png')
 plt.show()
 plt.close()
